@@ -16,7 +16,7 @@ if(isset($_POST['register']))
 <!doctype html>
 <html lang="en">
   <head>
-    <title>FORM LOGIN</title>
+    <title>FORM REGISTER</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body class="d-flex flex-column h-100">
