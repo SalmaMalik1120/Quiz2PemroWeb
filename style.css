@@ -1,0 +1,19 @@
+body{
+    background-image: url(hNWMbj.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+    color: rgb(209, 106, 106);
+}
+h1{
+    color:darkblue;
+    text-align:center
+}
+h2{
+    color:black;
+    text-align: center
+}
+p1{
+    color: black;
+}
